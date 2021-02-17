@@ -1,2 +1,2 @@
 # challenges
- solution to challenges
+ solution to challenges in Python and Javascript
